@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Gary c."
+date: 2018-10-04
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+I found out a website called pyret which is a programming language which has pythopn inspiredsyntax for functions and list.I prefer pyret than other websites such as python and racket since its easier to use
